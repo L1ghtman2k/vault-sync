@@ -10,7 +10,7 @@ on:
 
 env:
   CARGO_TERM_COLOR: always
-  BINARY_NAME: your_binary_name  # Change this to your actual binary name
+  BINARY_NAME: vault-sync  # Change this to your actual binary name
 
 jobs:
   build:
